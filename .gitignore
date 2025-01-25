@@ -1,0 +1,7 @@
+.env
+*.env
+.glb
+*.glb
+Config.env
+*Config.env
+Config.env*
